@@ -10,8 +10,8 @@ package io.github.wesleyosantos91.stringtemplate;
 public class Main {
 
     public static void main(String[] args) {
-        var name = "wesley";
-        String[] lastName = {"Oliveira", "Santos"};
+        var name = "Rogério";
+        String[] lastName = {"Camarano"};
 
         // old
         String exemple1 = "Hello my full name is " + name + " " + lastName[0] + " " + lastName[1];
